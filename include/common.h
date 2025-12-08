@@ -48,6 +48,7 @@ typedef signed long long s64;
 typedef signed INT_TYPE s32;
 typedef signed short s16;
 typedef signed char s8;
+typedef signed char Unk;
 
 #undef INT_TYPE
 

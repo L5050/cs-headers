@@ -6,3 +6,5 @@ GetMaxHP = 0x02475350;
 GetHP = 0x0247538c;
 SetHP = 0x024753c8;
 GetInk = 0x0247540c;
+GetBattleSpinCard = 0x021a1a40;
+initBtlSpin = 0x021a1e08;
