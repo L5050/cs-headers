@@ -8,3 +8,5 @@ SetHP = 0x024753c8;
 GetInk = 0x0247540c;
 GetBattleSpinCard = 0x021a1a40;
 initBtlSpin = 0x021a1e08;
+getElfData = 0x02339c60;
+loadElf = 0x022bb840;
